@@ -24,6 +24,7 @@ namespace TH02_FirstWeb.Controllers
 
         public IActionResult NameList()
         {
+
             List<string> danhSachTen = new List<string>
             {
                 "Nguyễn Văn A",
